@@ -1,12 +1,3 @@
-# Título 1
-Texto normal
-## Título 2
-Texto normal
-### Título 3
-Texto normal
-#### Título 4
-Texto normal
-##### Título 5
-Texto normal
-###### Título 6
-Texto normal
+# Clase de programación
+![Imágen de un experto programador](https://www.98thpercentile.com/hubfs/Imported_Blog_Media/Picture125-1.jpg)
+## ¡Vamos a aprender a programar!
