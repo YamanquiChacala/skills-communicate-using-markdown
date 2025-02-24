@@ -8,3 +8,10 @@ Esta es una función
 def suma(a:int, b:int):
     return a + b
 ```
+### Revisión
+Confirma que la función:
+- [ ] Recibe dos enteros
+- [ ] Los suma
+- [ ] Regresa el resultado
+
+Si todo está correcto, podemos proseguir.
